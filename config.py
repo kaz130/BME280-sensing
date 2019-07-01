@@ -1,0 +1,7 @@
+# coding: utf-8
+
+DB_ADDR
+DB_PORT
+DB_USER
+DB_PASSWD
+DB_NAME
